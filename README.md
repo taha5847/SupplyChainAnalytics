@@ -3,6 +3,8 @@
 An end-to-end analytics project: **Python → SQL Server → Power BI**. It cleans a public supply chain dataset, answers business questions with SQL, and presents the results in a 5-page interactive Power BI dashboard.
 
 > **Live dashboard:** [https://app.powerbi.com/groups/e0a754f7-922d-4214-b8be-f75fbfe47471/reports/36ad4a0b-ede9-436f-aa38-46bf3fda73f5/37bed06f0106040c7e00?experience=power-bi]
+
+
 > **Dataset:** [DataCo Supply Chain Dataset (Kaggle)](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
 
 ![Executive Overview](https://github.com/taha5847/SupplyChainAnalytics/blob/0bb6d4afeb104c1bacbb3bccf9aee5a8f46ee3f3/SupplyChainDashboard.pdf)
