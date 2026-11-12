@@ -2,10 +2,10 @@
 
 An end-to-end analytics project: **Python → SQL Server → Power BI**. It cleans a public supply chain dataset, answers business questions with SQL, and presents the results in a 5-page interactive Power BI dashboard.
 
-> **Live dashboard:** [add your Publish to web link here]
+> **Live dashboard:** [https://app.powerbi.com/groups/e0a754f7-922d-4214-b8be-f75fbfe47471/reports/36ad4a0b-ede9-436f-aa38-46bf3fda73f5/37bed06f0106040c7e00?experience=power-bi]
 > **Dataset:** [DataCo Supply Chain Dataset (Kaggle)](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
 
-![Executive Overview](images/page1_executive_overview.png)
+![Executive Overview](https://github.com/taha5847/SupplyChainAnalytics/blob/0bb6d4afeb104c1bacbb3bccf9aee5a8f46ee3f3/SupplyChainDashboard.pdf)
 
 ---
 
@@ -93,9 +93,9 @@ Notes on method: one row is one order **line**, so orders are counted with `COUN
 | **Customers & Geography** | Who buys and where | Customers, Avg Orders and Sales per Customer, Top Market, Sales map, Top 10 Countries, Sales by Transaction Type, Region detail table |
 | **Data & Notes** | Source, definitions, assumptions, insights and recommendations | Documentation |
 
-![Delivery & Logistics](images/page2_delivery_logistics.png)
-![Sales & Profitability](images/page3_sales_profitability.png)
-![Customers & Geography](images/page4_customers_geography.png)
+![Delivery & Logistics](https://github.com/taha5847/SupplyChainAnalytics/blob/0bb6d4afeb104c1bacbb3bccf9aee5a8f46ee3f3/SupplyChainDashboard.pdf)
+![Sales & Profitability](https://github.com/taha5847/SupplyChainAnalytics/blob/0bb6d4afeb104c1bacbb3bccf9aee5a8f46ee3f3/SupplyChainDashboard.pdf)
+![Customers & Geography](https://github.com/taha5847/SupplyChainAnalytics/blob/0bb6d4afeb104c1bacbb3bccf9aee5a8f46ee3f3/SupplyChainDashboard.pdf)
 
 ### Key measures
 
@@ -167,8 +167,8 @@ Notes on method: one row is one order **line**, so orders are counted with `COUN
 
 ## 9. Author
 
-**[Your name]**
-[LinkedIn link] · [Email] · [Portfolio link]
+**[Taha Parvaiz]**
+[www.linkedin.com/in/taha-parvaiz-939705321] · [tahaiqbal2u@gmail.com] 
 
 ## 10. Acknowledgements
 
